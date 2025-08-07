@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+body {
+    font-family: 'Amatic SC';
+    color: white;
+    font-size: 40;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: grey;
+}
+
+
+
+
+.header {
+    margin-top: -50;
+}
+
+
+
+
+
+.headerlogo {
+    text-align: center;
+    margin-top: -60;
+}
+
+
+
+
+/*#region H's*/
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    margin-top: -5;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+    margin: -5;
+}
+h5 {
+    text-align: center;
+    margin-top: -50;
+}
+
+h6 {
+    text-align: left;
+    color: white;
+}
+/*#endregion RegionName*/
+.topnav {
+    position: relative;
+    height:60;
+    top: 0;
+    left: 0;
+    width: 98%;
+    text-align: rightl;
+    background-color: white;
+    padding-right: 40;
+}
+
+footer {
+    position: fixed;
+    bottom: -60;
+}
+
+.sM {
+    text-align: center;
+    margin-top: -40;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
